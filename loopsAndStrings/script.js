@@ -6,3 +6,5 @@ while (gameNum != userNum) {
 	userNum = prompt("Enter again:");
 }
 console.log("You win!");
+
+
